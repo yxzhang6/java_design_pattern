@@ -1,5 +1,4 @@
 # design_pattern
-design_pattern_设计模式_   by Geely
-# 后续这个MD文件会继续补充，祝大家学习愉快！一起加油！ 
+design_pattern_设计模式_   by yxzhang 
 
 过多资源-www.itjc8.com
